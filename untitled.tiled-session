@@ -1,0 +1,189 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "assets/maps/level0.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Tiles.tsx": {
+            "scaleInDock": 4,
+            "scaleInEditor": 11
+        },
+        "assets/maps/level0.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 3,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 184,
+                "y": 144.16666666666666
+            }
+        },
+        "assets/maps/level1.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 151.83333333333331,
+                "y": 158.16666666666666
+            }
+        },
+        "assets/maps/level10.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 471.33333333333337,
+                "y": 652.3333333333333
+            }
+        },
+        "assets/maps/level11.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 92,
+                "y": 631.6666666666666
+            }
+        },
+        "assets/maps/level2.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 3,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 172.5,
+                "y": 130.5
+            }
+        },
+        "assets/maps/level3.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 3,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 229.66666666666669,
+                "y": 170.5
+            }
+        },
+        "assets/maps/level4.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 4,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 141,
+                "y": 130.875
+            }
+        },
+        "assets/maps/level5.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 4,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 139,
+                "y": 156.375
+            }
+        },
+        "assets/maps/level6.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 3,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 196.33333333333331,
+                "y": 136.16666666666666
+            }
+        },
+        "assets/maps/level7.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 3,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 162.33333333333331,
+                "y": 189.5
+            }
+        },
+        "assets/maps/level8.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 3,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 214.33333333333331,
+                "y": 141.16666666666666
+            }
+        },
+        "assets/maps/level9.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 346.66666666666663,
+                "y": 265
+            }
+        }
+    },
+    "last.imagePath": "C:/PersonalProjects/LD56/assets/graphics",
+    "map.height": 15,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 20,
+    "openFiles": [
+        "assets/maps/level1.tmx",
+        "assets/maps/level2.tmx",
+        "assets/maps/level3.tmx",
+        "assets/maps/level4.tmx",
+        "assets/maps/level5.tmx",
+        "assets/maps/level6.tmx",
+        "assets/maps/level7.tmx",
+        "assets/maps/level8.tmx",
+        "assets/maps/level9.tmx",
+        "assets/maps/level10.tmx",
+        "assets/maps/level11.tmx",
+        "assets/maps/level0.tmx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "assets/maps/level1.tmx",
+        "assets/maps/level2.tmx",
+        "assets/maps/level3.tmx",
+        "assets/maps/level4.tmx",
+        "assets/maps/level5.tmx",
+        "assets/maps/level6.tmx",
+        "assets/maps/level7.tmx",
+        "assets/maps/level8.tmx",
+        "assets/maps/level9.tmx",
+        "assets/maps/level10.tmx",
+        "assets/maps/level11.tmx",
+        "assets/maps/level0.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.spacing": 1,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
